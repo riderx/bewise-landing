@@ -31,7 +31,9 @@ body {
     margin: 0;
     padding: 0;
     color: #fff;
-    background: linear-gradient(rgba(23, 22, 22, 0.4), rgba(23, 22, 22, 0.4)), url('https://images.unsplash.com/photo-1469395013119-ca3b424d83e5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1600&h=1600&fit=crop&ixid=eyJhcHBfaWQiOjF9');
+    background-color: #00c0ff;
+    background-image: linear-gradient(rgba(23, 22, 22, 0.4), rgba(23, 22, 22, 0.4)), url('https://images.unsplash.com/photo-1469395013119-ca3b424d83e5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=3200&h=3200&fit=crop&ixid=eyJhcHBfaWQiOjF9');
+    background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Helvetica Neue', Helvetica, sans-serif;
     font-size: 100%;
